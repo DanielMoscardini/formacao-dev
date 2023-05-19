@@ -1,3 +1,2 @@
-const x: number = 10;
-
-console.log(x + 2);
+// import './tipos/variaveis';
+import './tipos/array';
