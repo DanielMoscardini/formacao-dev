@@ -1,0 +1,11 @@
+const hora = 24;
+
+if (hora <= 11) {
+  console.log('Bom dia!');
+} else if (hora <= 17) {
+  console.log('Boa tarde!');
+} else if (hora <= 22) {
+  console.log('Boa noite');
+} else {
+  console.log('Vai dormir!');
+}
