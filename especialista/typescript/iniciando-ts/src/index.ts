@@ -8,4 +8,7 @@
 // import './tipos/produto'
 // import './tipos/uniao'
 // import './tipos/null'
-import './tipos/desafio'
+// import './tipos/desafio'
+// import './oo/classe_1'
+// import './oo/classe_2'
+// import './oo/classe_3'

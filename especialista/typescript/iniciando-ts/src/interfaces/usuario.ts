@@ -1,0 +1,5 @@
+interface Usuario {
+
+}
+
+export {}
