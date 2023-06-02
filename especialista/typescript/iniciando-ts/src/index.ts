@@ -12,3 +12,6 @@
 // import './oo/classe_1'
 // import './oo/classe_2'
 // import './oo/classe_3'
+// import './interfaces/usuario'
+// import './interfaces/flexivel'
+import './interfaces/funcao'
