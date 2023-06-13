@@ -14,4 +14,5 @@
 // import './oo/classe_3'
 // import './interfaces/usuario'
 // import './interfaces/flexivel'
-import './interfaces/funcao'
+// import './interfaces/funcao'
+import './pilares_oo/encapsulamento'
