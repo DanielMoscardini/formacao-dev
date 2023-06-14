@@ -10,7 +10,13 @@ export default function Page() {
     `}
     >
       <Cabecalho nome={"daniel"} idade={22} />
-      <Conteudo />
+      <Conteudo> 
+        <ul>
+          <li>1</li>
+          <li>2</li>
+          <li>3</li>
+        </ul>
+      </Conteudo>
       <Rodape />
     </div>
   );

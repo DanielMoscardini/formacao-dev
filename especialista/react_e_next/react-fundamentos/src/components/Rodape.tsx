@@ -1,5 +1,4 @@
 export default function Rodape(props: any) {
-  console.log(props);
 
   return (
     <div
