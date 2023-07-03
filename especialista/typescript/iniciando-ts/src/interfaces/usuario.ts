@@ -12,6 +12,7 @@ const usuarioLogado: Usuario = {
 };
 console.log(usuarioLogado);
 
+
 const usuarioOpcional: Partial<Usuario> = {
   id: 456,
   senha: 'Teste'
